@@ -1,0 +1,25 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+  
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+  font-size: 30px;
+}
+
+.white-text{
+  background-color: red;
+  padding: 2px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1cm;
+}
+
+#outer-box{
+  background-color: purple;
+}
